@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+Game created by @ZussM4n
+------------------------------------------------------------------------------
+Just a simple game, starting to learn how to code.
+
+
+
+Open the main.py file to play.
+
+
+
+Letters created on: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+
+
+
+Made this on Thonny, install it if you want I reccomend it.
+
+
+
+Contact me on discord if you wnna create games and stuff (ZussM4n#0476)
+
+
+
+Hope you like it.
